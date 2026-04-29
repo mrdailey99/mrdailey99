@@ -1,16 +1,33 @@
-## Hi there 👋
+# Michael Dailey
 
-<!--
-**mrdailey99/mrdailey99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product leader, engineer, builder, and speaker focused on AI-driven automation and developer workflows.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI-powered automation pipelines
+- CI/CD integration patterns
+- Developer-first tooling and APIs
+- Scalable test automation systems
+
+## Background
+
+Currently working as PBU Director at Provar, building AI-powered automation platforms used by enterprise engineering teams.
+
+Previously:
+- DevOps Consultant → Solution Architect → Director of Solution Engineering
+- Built CI/CD systems, automation frameworks, and developer tooling
+- Speaker at Dreamforce, TrailblazerDX, DevOps Dreamin, and Cactusforce
+
+## Featured Projects
+
+- AI Automation Pipeline (LLM → Validation → Execution)
+- CI/CD Automation Integration (Jenkins, GitHub Actions, BitBucket, CircleCI, GitLabCI, Azure DevOps, SF CLI)
+- Developer Quickstart Templates
+
+## Philosophy
+
+Systems should reduce complexity, not shift it. Developers are the brains behind the wheel, we just need to give them the right tools and vehicles to move fast and not break things.
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/michael-dailey-4b470380
