@@ -27,7 +27,7 @@ Previously:
 
 ## Philosophy
 
-Systems should reduce complexity, not shift it or abstract it away. Developers are the brains behind the wheel, we just need to give them the right tools and vehicles to move fast and not break things.
+Systems should reduce complexity instead of abstracting it away. Developers are the brains behind the wheel, we just need to give them the right tools and vehicles to move fast and not break things.
 
 ## Contact
 
