@@ -21,12 +21,13 @@ Previously:
 ## Featured Projects
 
 - AI Automation Pipeline (LLM → Validation → Execution)
+- Provar MCP Server (CLI and 35+ MCP tools for Claude, GitHub Copilot, Cursor, and more MCP-compatible AI Clients)
 - CI/CD Automation Integration (Jenkins, GitHub Actions, BitBucket, CircleCI, GitLabCI, Azure DevOps, SF CLI)
 - Developer Quickstart Templates
 
 ## Philosophy
 
-Systems should reduce complexity, not shift it. Developers are the brains behind the wheel, we just need to give them the right tools and vehicles to move fast and not break things.
+Systems should reduce complexity, not shift it or abstract it away. Developers are the brains behind the wheel, we just need to give them the right tools and vehicles to move fast and not break things.
 
 ## Contact
 
